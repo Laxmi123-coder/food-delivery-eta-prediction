@@ -1,7 +1,7 @@
 # 🍕 Food Delivery ETA Prediction
 
 ## 🚀 Live Demo
-👉 [Click here to try the app](https://yourusername-food-delivery-eta.streamlit.app)
+👉 [Click here to try the app]food-delivery-eta-prediction-gz2zwe5xodcinetyzimqsp.streamlit.app
 
 ---
 
